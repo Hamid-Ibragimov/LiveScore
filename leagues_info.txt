@@ -1,0 +1,4 @@
+Premier League,https://www.livescore.com/en/football/england/premier-league/
+Champions League,https://www.livescore.com/en/football/champions-league/
+Europa League,https://www.livescore.com/en/football/europa-league/
+Serie A,https://www.livescore.com/en/football/italy/serie-a/
